@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/CPSSD/MDFS/server"
+	"github.com/MDFS/MDFS/server"
 )
 
 func main() {

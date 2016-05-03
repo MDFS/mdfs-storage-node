@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/CPSSD/MDFS/config"
-	"github.com/CPSSD/MDFS/utils"
+	"github.com/MDFS/MDFS/config"
+	"github.com/MDFS/MDFS/utils"
 	"os"
 )
 
